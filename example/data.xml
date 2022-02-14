@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<users>
+    <user username="Marcus Holloway">
+        <age>37</age>
+        <team>DedSec</team>
+    </user>
+    <user username="Reginald Blechman">
+        <age>41</age>
+        <team>DedSec</team>
+    </user>
+</users>
